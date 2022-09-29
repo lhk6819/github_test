@@ -8,7 +8,6 @@
 ![alt text](https://d18-invdn-com.investing.com/content/pic37448315ca5d5b26b7883b511e070409.jpg)
 
 ```
-def print():
-  asdfasdfasdf
-
+def print(출력할 내용):
+  출력할 내용을 출력합니다.
 ```
